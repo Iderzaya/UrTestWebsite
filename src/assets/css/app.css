@@ -1,0 +1,27 @@
+body {
+    background: #F8F9FF;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 60% 40%;
+    grid-column-gap: 1em;
+    grid-row-gap: 1em;
+  }
+.accountmne {
+    display: none;
+}
+
+.img {
+    display: none;
+    float:left;
+    margin:20px;
+}
+
+.logger{
+    width: 650px;
+    height: 100%;
+}
+.recMneu{
+    display: none;
+}
